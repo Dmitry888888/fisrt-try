@@ -1,0 +1,41 @@
+#title{
+  text-align: center;
+}
+#img-div{
+  text-align: center;
+}
+#tribute-info{
+  text-align: center;
+}
+#image{
+max-width:100%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-color: green;
+border-width: 3px;
+border-style: solid;
+border-radius:1%;
+}
+#header2{
+text-align: center;
+margin-top: 20px;
+font-weight: 600;
+}
+#list_life{
+margin-top: 10px;
+line-height: 1.5;
+align="left";
+padding-left: 20%;
+}
+#link{
+font-weight: 450;
+padding-left: 20px;
+}
+.container
+{
+display: grid;
+max-width:90;
+background-Color: #FAEBD7;
+}
+

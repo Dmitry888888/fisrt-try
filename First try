@@ -1,0 +1,16 @@
+<div id="main" class="container">
+<div id="title" class="item1">Charles Maurice de Talleyrand-Périgord</div>
+<div id="img-div"> <p>The man who outlasted six different regimes. </p><img  class=image id="image" src="https://www.remocontro.it/wp-content/uploads/2018/11/Vienna-fb-1.jpg" alt="Image of Charles"> </div>
+  
+<div  id="tribute-info">Second form  right in first row at the Congress of Vienna, 1814–1815 </div> 
+<div id="header2">Here's a time line of Talleyrand life:</div>
+<div id="list_life"><ul>
+    <li>Born	2 February 1754
+Paris, Kingdom of France</li>
+    <li>Had a fantastic life with awesome intrigues</li>
+    <li>17 May 1838 (aged 84)
+Paris, Kingdom of France</li>
+  </ul>
+  </div>
+<p1 id="link">If you have time, you should read more about this incredible human being on his <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Charles_Maurice_de_Talleyrand-P%C3%A9rigord">wikipedian entry.</a><p1>
+</div>
